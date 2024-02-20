@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/football"
+        android:title="Football"
+        android:icon="@drawable/ic_baseline_sports_soccer_24"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/basketball"
+        android:title="Basketball"
+        android:icon="@drawable/ic_baseline_sports_basketball_24"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/favourites"
+        android:title="Favourites"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/info"
+        android:title="Info"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/login"
+        android:title="Login"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/register"
+        android:title="Register"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:showAsAction="never" />
+</menu>

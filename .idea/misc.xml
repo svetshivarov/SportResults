@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_basketball.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_favourites.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_football.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_info.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_login.xml" value="0.2441123188405797" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_main.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_register.xml" value="0.2441123188405797" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/layout/activity_volleyball.xml" value="0.24818840579710144" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/menu/context_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidStudioProjects/SportResults/app/src/main/res/menu/options_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
